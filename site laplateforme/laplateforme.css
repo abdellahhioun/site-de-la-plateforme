@@ -1,0 +1,1046 @@
+body{
+
+}
+.accueile
+{
+ .people{
+    height: 52w;
+    width: 52vw;
+    margin-left: 0vw;
+    margin-top: 40px;
+ }
+
+ .nav{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+
+
+ }
+ img{
+   width: 30vw;
+   padding-top: 10px;
+   padding-right: 5vw;
+   
+ }
+ .options{
+    margin-top: 40px;
+ }
+ .options a{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 22px;
+    color: white; 
+    text-decoration: none;
+ background-color: #0062ff;
+ border-radius: 10px;
+
+ }
+ h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,bold;
+    font-size: 45px;
+    
+ }
+ .content{
+    display: flex;
+    flex-direction: row;
+    color:#0062ff ;
+    
+ }
+ .accueileh2{
+   color: #0062ff;
+   font-family: Arial, Helvetica, sans-serif,bold;
+ font-size: 30px;
+ display: flex;
+ flex-direction: column-reverse;
+
+ }
+ .h1h2{
+    align-items: center ;
+ }
+ .p1{
+    color: #0062ff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,bold;
+    font-size: 30px;
+ }
+ .p2{
+    color: #0062ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+ }
+ .nav2 a{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+ background-color: #0062ff;
+ border-radius: 10px;
+ }
+ .footer1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0062ff;
+    height: 30px;
+   border-radius: 10px;
+  display: flex;
+ align-items: center;
+ margin-top: 10px;
+ color: white;
+ }
+}
+
+.Qui-somme-nous
+{
+    img{
+        width: 30vw;
+        padding-top: 10px;
+        padding-right: 5vw;
+        
+      }
+    .options a{
+        display: inline-block; /* Ensures the link respects width and height properties */
+        padding: 9px 9px;
+            margin-right: 30px;
+            font-family: Arial, Helvetica, sans-serif,bold;
+        font-size: 22px;
+        color: white; 
+        text-decoration: none;
+     background-color: #0062ff;
+     border-radius: 10px;
+    margin-top: 40px;
+     }
+
+     .nav{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+     }
+h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px; 
+}
+.p1{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding:20;
+    color: white;
+    background-color: #0062ff;
+    border-radius: 10px;
+}
+.P2{
+    margin-right: 30;
+}
+.h1{
+    display: flex;
+ 
+}
+
+.img1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.img1 {
+    display: flex;
+    justify-content: space-evenly; /* Align items evenly along the main axis */
+    align-items: center; /* Align items vertically */
+}
+
+.img1 img {
+    width: auto; /* Allow images to adjust their width */
+    max-width: 20%; /* Ensure images don't exceed their container width */
+    height: auto; /* Allow images to adjust their height */
+    max-height: 100%; /* Ensure images don't exceed their container height */
+}
+
+.css-cer1{
+display: flex;
+flex-direction: row;
+padding: 10;
+
+}
+.css-cer2{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 10;
+}
+.certifica-1{
+   display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: #0062ff;
+    color: white;
+    border-radius: 10px;
+    align-items:center;
+    margin-top: 50px;
+    margin-right: 30px;
+    padding: 1; 
+    height: 130px;
+}
+.certifica-2{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: #0062ff;
+    color: white;
+    border-radius: 10px;
+    align-items:center;
+    margin-top: 50px;
+    padding: 1; 
+height: 130px;
+}
+.video-1{
+    width: 400px;
+    height: 225px;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+
+}
+.sub-1{
+    display: flex;
+    justify-content: center;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.video-2{
+    width: 400px;
+    height: 225px;
+}
+.sub2{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub-2{
+    display: flex;
+    justify-content: center;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.videos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+}
+.Innovation-Lab{
+    img{
+        width: 30vw;
+        padding-top: 10px;
+        padding-right: 5vw;
+        
+      }
+      .options-a a{
+        display: inline-block; /* Ensures the link respects width and height properties */
+        padding: 9px 9px;
+            margin-right: 30px;
+            font-family: Arial, Helvetica, sans-serif,bold;
+        font-size: 22px;
+        color: white; 
+        text-decoration: none;
+     background-color: #0062ff;
+     border-radius: 10px;
+    margin-top: 40px;
+     }
+     .nav-3{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+     }
+
+    .h{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 60px;
+   color: #0062ff;
+    }
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.hp{
+padding: 30px;
+display: flex;
+flex-direction: column;
+}
+.img{
+   display: flex;
+   justify-content: right;
+flex-direction: row-reverse;
+justify-content: space-between;
+margin-bottom: px;
+}
+.h10{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+display: flex;
+align-items: start;
+padding: 15px;
+color: #0062ff;
+}
+.pandh{
+    display: flex;
+    flex-direction: column;
+}
+.handp1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 15px;
+}
+.h11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: #0062ff;
+    
+}
+.handp2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.handp4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.handp5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+   
+}
+.handp6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: #0062ff;
+}
+.handp7{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.handp8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #0062ff;
+}
+.handp9{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.handp10{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #0062ff;
+}
+.handp11{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.img10{
+    display: flex;
+    flex-direction: row;
+}
+
+.img10 {
+    display: flex;
+    justify-content: center; /* Center the images horizontally */
+    margin-top: 20px; /* Adjust margin as needed */
+    height: 413px;
+}
+
+/* Style for individual images */
+.img10 img {
+    width: 400px; /* Adjust the width as needed */
+    margin: 0 10px; /* Add some spacing between the images */
+}
+.img11{
+   display: flex;
+   flex-direction: row;
+   
+}
+.handp13{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: px30px;
+    color: #0062ff;
+    display: flex;
+    justify-content: center;
+}
+.handh1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+margin-top: 40px;
+}
+.pandp1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.handh2{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.pandp2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+
+}
+.img12{
+    padding-left: 50px;
+}
+}
+.executive-education{
+    background-color: #0062ff;
+    .nav{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+       
+       
+        }
+        img{
+          width: 30vw;
+          padding-top: 10px;
+          padding-right: 5vw;
+          
+        }
+        .options{
+           margin-top: 40px;
+        }
+        .options a{
+           display: inline-block; /* Ensures the link respects width and height properties */
+           padding: 9px 9px;
+               margin-right: 30px;
+               font-family: Arial, Helvetica, sans-serif,bold;
+           font-size: 22px;
+           color:white; 
+           text-decoration: none;
+        background-color: rgb(9, 55, 173);
+        border-radius: 10px;
+       
+        }
+
+.vid{
+
+    display: flex;
+    justify-content: right;
+    margin-top: 100px;
+    
+
+}
+.vandh{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+.handp1{
+display: flex;
+flex-direction: column;
+margin-top: 80px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+    font-family: Arial, Helvetica, sans-serif,bold;
+    color:white;
+}
+.aanda a{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+    color: white; 
+    text-decoration: none;
+ background-color: rgb(9, 55, 173);
+ border-radius: 10px;
+ margin-top: 30px;
+}
+.pandp3 
+{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+    color: white; 
+    text-decoration: none;
+ background-color:rgb(9, 55, 173);
+ border-radius: 10px;
+ font-family: Arial, Helvetica, sans-serif,bold;
+ font-size: 25px;
+ margin-top: 60px;
+ margin-left: 700px;
+ 
+}
+footer{
+    background-color: black;
+    margin-top: 30px;
+
+}
+.footer1{
+    display: flex;
+    flex-direction: row;
+}
+.footerC a{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2px;
+    padding: 10;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+
+.lesa{
+    color: white;
+}
+
+.info{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+margin-left: 111px;
+margin-top: 39px;
+
+}
+.imgg{
+    margin-left: 30px;
+}
+.PPPP{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 22px;
+    color:white; 
+    text-decoration: none;
+ background-color: rgb(9, 55, 173);
+ border-radius: 10px;
+
+}
+.logoo{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 22px;
+    color:white; 
+    text-decoration: none;
+ background-color:white;
+ border-radius: 10px;
+ margin-top: 10px;
+
+
+}
+}
+.coding-school{
+
+.office{
+    height: auto;
+    width: 700;
+    margin-top: 60px;
+}
+.handh2{
+    font-size: 70;
+    color: #0062ff;
+    
+}
+
+.ihp{
+    display: flex;
+    flex-direction: row;
+}
+.pap{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30;
+}
+.hh{
+    display: flex;
+justify-content: center;
+}
+.codd{
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 22px;
+    color:white; 
+ border-radius: 10px;
+ margin-top: 10px;
+text-decoration: none;
+}
+.imgcod{
+height: auto;
+width: 50vw;
+
+
+
+}
+.aaa{
+    text-decoration: none;
+    display: inline-block; /* Ensures the link respects width and height properties */
+    padding: 9px 9px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, sans-serif,bold;
+    font-size: 22px;
+    color:black; 
+ border-radius: 10px;
+ margin-top: 10px;
+text-decoration: none;
+display: flex;
+flex-direction: row;
+}
+.handpp{
+display: flex;
+flex-direction: column;
+
+}
+.pp{
+display: inline-block;
+background-color: #0062ff;
+padding: 9px 9px;
+border-radius: 20px;
+color: white;
+display: flex;
+justify-content: center;
+}
+.dd{
+    display: flex;
+    flex-direction: column;
+}
+.dev{
+    width: 55vw;
+margin-left: 18px;
+}.devv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.hhh{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.ppp{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+
+}    
+}
+.ai-school{
+    .nav{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+       
+       
+        }
+
+        .options{
+            margin-top: 40px;
+         }
+         .options a{
+            display: inline-block; /* Ensures the link respects width and height properties */
+            padding: 9px 9px;
+                margin-right: 30px;
+                font-family: Arial, Helvetica, sans-serif,bold;
+            font-size: 22px;
+            color: white; 
+            text-decoration: none;
+         background-color: #0062ff;
+         border-radius: 10px;
+        
+         }
+
+
+
+
+
+
+
+
+
+
+}
+img{
+    width: 30vw;
+    padding-top: 10px;
+    padding-right: 5vw;
+    
+  }
+
+  .jj{
+    margin-top: 55px;
+    width: 700px;
+  }
+  .handp0{
+display: flex;
+flex-direction: column;
+margin-top: 55px;
+
+
+  }
+  .ihp0{
+display: flex;
+flex-direction: row;
+
+  }
+.h0{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50;
+color: #0062ff;
+
+
+}
+.p0{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20;
+
+}
+.h00{
+font-family: Arial, Helvetica, sans-serif,bold;
+display: flex;
+justify-content: center;
+margin-top: 60px;
+
+}
+.ii{
+width: 600;
+
+}
+
+.ww{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40;
+color: #0062ff;
+
+
+}
+.pppp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25;
+}
+.aaaa{
+
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+
+
+
+}
+.handppp{
+display: flex;
+flex-direction: column;
+
+
+
+
+}
+.iandph{
+display: flex;
+flex-direction: row;
+
+
+
+}
+.hn{
+color: #0062ff;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+}
+.pc{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+}
+.ac{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+
+
+}
+.cheff{
+    width: 600;
+}
+.handpppa{
+display: flex;
+flex-direction: column;
+
+}
+.iandpa{
+    display: flex;
+    flex-direction:row ;
+    margin-top: 50px;
+}
+.lastpic{
+width: 600;
+}
+.lasth{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40;
+    color: #0062ff;
+}
+.lastp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22;
+}
+.lasta{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+}
+.last2{
+display: flex;
+flex-direction: column;
+
+}
+.last1{
+    display: flex;
+    flex-direction: row;
+}
+.cyber-security{
+
+    .nav{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+       
+       
+        }
+        img{
+          width: 30vw;
+          padding-top: 10px;
+          padding-right: 5vw;
+          
+        }
+        .options{
+           margin-top: 40px;
+        }
+        .options a{
+           display: inline-block; /* Ensures the link respects width and height properties */
+           padding: 9px 9px;
+               margin-right: 30px;
+               font-family: Arial, Helvetica, sans-serif,bold;
+           font-size: 22px;
+           color: white; 
+           text-decoration: none;
+        background-color: #0062ff;
+        border-radius: 10px;
+
+}
+.rl3{
+width: 700;
+}
+.rl1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+color: #0062ff;
+}
+.rl2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+
+
+}
+.rl5{
+display: flex;
+flex-direction: column;
+
+}
+.rl4{
+display: flex;
+flex-direction: row;
+
+}
+.rr1{
+display: flex;
+justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+
+}
+.rr2{
+width: 700px;
+}
+
+.rr3{
+display: flex;
+flex-direction: column;
+
+}
+.rr4{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+}
+.rr5{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+}
+.rr7{
+display: flex;
+flex-direction: row;
+
+}
+.rr6{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+
+
+}
+.l2{
+width: 700PX;
+}
+.l5{
+
+    display: flex;
+    flex-direction: column;
+}
+.l1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+.l3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+}
+.l4{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+
+}
+.l7{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50;
+}
+.m1{
+width: 700;
+}
+.m2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+
+}
+.m3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+
+}
+.m5{
+display: flex;
+flex-direction: column;
+
+}
+.m4{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.finally{
+    display: inline-block;
+    background-color: #0062ff;
+    padding: 9px 9px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
